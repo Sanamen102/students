@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Алексеев</name>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Савченко</name>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Пупкин</name>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Рофланов</name>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Челов</name>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Сергеев</name>
+    </student>
+</students>
